@@ -1,6 +1,7 @@
 # Data-Cleaning-using-Pandas
 A pandas-based data cleaning and preprocessing project for a GitHub-sourced Olympics athlete dataset, transforming raw structured records into a clean, analysis-ready format for future EDA and visualization process.
 
+<img width="4000" height="2667" alt="olympic_flame" src="./assets/olympic_flame.jpeg" />
 
 Found Olympics Athlete Dataset from Github Repo -> https://github.com/KeithGalli/Olympics-Dataset/
 
